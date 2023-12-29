@@ -1,7 +1,7 @@
 # Insurance_regression
 I have applied a linear regression model to insurance data. The model's MSE and R-square were improved with the Random forest method of regression.
 
-# Insurance Dataset Analysis
+#Insurance Dataset Analysis
 
 ## Overview
 This project explores an insurance dataset to predict charges using regression algorithms. It includes data preprocessing, exploratory data analysis (EDA), outlier detection, and model training and evaluation.
