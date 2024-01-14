@@ -26,6 +26,5 @@ To run this project, ensure you have Python and the necessary libraries installe
 ## Contributions
 Contributions are welcome. Please open an issue to propose changes or submit a pull request.
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
+
 
